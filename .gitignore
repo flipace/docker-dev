@@ -2,3 +2,6 @@
 .idea
 .vscode
 .Thumbs_db
+
+mongo-data
+mysql-data
