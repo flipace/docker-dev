@@ -2,6 +2,7 @@
 .idea
 .vscode
 .Thumbs_db
+.env
 
 mongo-data
 mysql-data
